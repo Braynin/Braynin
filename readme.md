@@ -5,3 +5,6 @@ Wenas, soy Brayhan pero Braynin es como me quiero hacer conocer en este mundo ci
 
 ## Contact me
 En mi camino profesional como desarrollador quiero ser parte de muchos proyectos y oportunidades para demostrar mis conocimientos, habilidades y tambien seguir como creciendo, espero poder contar el apoyo de tantos como se pueda.
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
