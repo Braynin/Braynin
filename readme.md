@@ -14,3 +14,8 @@ En mi camino profesional como desarrollador quiero ser parte de muchos proyectos
 - Problem-Solving: As a developer
 - I thrive on solving complex problems
 - I’m constantly exploring new technologies
+
+## Hobbies
+- Dancing
+- Dotear
+- Videojuegarsh
