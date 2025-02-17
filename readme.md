@@ -1,25 +1,46 @@
-# Holi! Soy Braynin! Full Stack Developer
+# Brayhan Ninahuaman (Braynin) - Front-end Web Developer
 
-## About me
-Wenas, soy Brayhan pero Braynin es como me quiero hacer conocer en este mundo cibernetico, actualmente estudio para ser pogramador web, es un gran cambio en mi carrera y me esforzare al maximo para que las metas que me trazo esten cada vez mas cerca.
+## About Me
 
-## Contact me
-En mi camino profesional como desarrollador quiero ser parte de muchos proyectos y oportunidades para demostrar mis conocimientos, habilidades y tambien seguir como creciendo, espero poder contar el apoyo de tantos como se pueda.
+I'm Braynin, a Front-end Web Developer with experience in creating efficient and functional digital solutions. I am constantly learning and evolving in the development world, combining frontend and backend skills to build dynamic and interactive applications.
 
-## Languages
-- Español desde chikitito chikitito
-- Ingles masomeno pero namas cuando hace la calor
+## Contact
+
+I am interested in being part of challenging projects that allow me to continue growing professionally. If you want to collaborate or have a proposal, feel free to contact me through:
+
+- **Email:** [brayhannb@gmail.com](mailto:brayhannb@gmail.com)
+- **LinkedIn:** [linkedin.com/in/brayhan-ninahuaman-braynin/](https://linkedin.com/in/brayhan-ninahuaman-braynin/)
+- **GitHub:** [github.com/Braynin](https://github.com/Braynin)
 
 ## Technologies
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
+### Frontend
+
+- React.js with Tailwind CSS
+- Next.js
+- Astro
+- JavaScript (ES6+)
+
+### Backend (learning)
+
+- Node.js with Express
+- MongoDB
+
+### Other Tools
+
+- Git and GitHub
 
 ## Skills
-- Problem-Solving: As a developer
-- I thrive on solving complex problems
-- I’m constantly exploring new technologies
 
-## Hobbies
-- Dancing
-- Dotear
-- Videojuegarsh
+- Web application development
+- Performance optimization and user experience enhancement
+- Responsive and interactive design implementation
+- Problem-solving and logical thinking
+
+## Interests
+
+Beyond coding, I enjoy exploring new technologies, continuously improving my skills, and staying updated on web development trends. I also have a passion for video games and technology in general.
+
+---
+
+This portfolio reflects my work and growth as a developer. Thank you for visiting!
